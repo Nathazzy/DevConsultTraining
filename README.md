@@ -1,6 +1,6 @@
 # DevConsultTraining
 
-# No, I did!
-# vajon összeakad?
+# kezdek ráérezni
+# (tesztelekbe)
 
 General description of the project
