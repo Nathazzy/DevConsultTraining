@@ -1,6 +1,6 @@
 # DevConsultTraining
 
-# No, I did!
-# vajon összeakad?
+# a merge resz nem megy?
+# (tesztelekbe)
 
 General description of the project
