@@ -1,8 +1,9 @@
 # DevConsultTraining
 
 # kezdek ráérezni
-# (tesztelekbe)
+
 # a merge resz nem megy?
-# (tesztelekbe)
+
+# de rájöttem
 
 General description of the project
