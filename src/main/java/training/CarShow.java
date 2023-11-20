@@ -18,6 +18,7 @@ public class CarShow {
         System.out.println(myElectricCar.getNumberOfCarsProduced());
 
         Car myCar3 = new Car("Suzuki");
+        int myNumber = 12;
     }
 
 }
