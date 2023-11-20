@@ -4,6 +4,8 @@
 
 # a merge resz nem megy?
 
-# de rájöttem
+# biztos rájöttél?
 
 General description of the project
+
+Hozzáadok egy sort
