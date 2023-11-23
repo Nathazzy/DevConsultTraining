@@ -1,3 +1,5 @@
+version: 10.6
+
 # DevConsultTraining
 
 # kezdek ráérezni
