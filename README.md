@@ -7,6 +7,7 @@ version: 10.6
 # a merge resz nem megy?
 
 # biztos rájöttél?
+# teljesen biztos!
 
 General description of the project
 
