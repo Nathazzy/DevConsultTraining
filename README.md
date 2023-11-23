@@ -4,6 +4,6 @@
 
 # a merge resz nem megy?
 
-# de rájöttem
+# vagy talán nem 
 
 General description of the project
