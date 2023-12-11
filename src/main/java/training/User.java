@@ -3,9 +3,11 @@ package training;
 public class User {
 
     public static int numberOfUsersCreated = 0;
-    String name;
+    private String name;
     Boolean twoEars;
-    boolean hasHomeAddress;
+    public boolean hasHomeAddress;
+    private String homeAddress;
+    private int numberOfTimesHomeAddressChanged = 0;
     Integer myIntObject;
     int myIntPrimitive;
 
@@ -30,6 +32,31 @@ public class User {
 
     public boolean hasHomeAddress() {
         return hasHomeAddress;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    public void setName(String name, boolean access) {
+        if(access) {
+            this.name = name;
+        } else {
+            System.out.println("YOU DON'T HAVE PERMISSION TO OVERRIDE!");
+        }
+    }
+
+    public String getHomeAddress() {
+        return homeAddress;
+    }
+
+    public void setHomeAddress(String homeAddress) {
+        this.homeAddress = homeAddress;
+        numberOfTimesHomeAddressChanged++;
+    }
+
+    public int getNumberOfTimesHomeAddressChanged() {
+        return numberOfTimesHomeAddressChanged;
     }
 
 }
